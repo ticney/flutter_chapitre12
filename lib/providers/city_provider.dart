@@ -1,7 +1,7 @@
 import 'dart:collection';
 
 import 'package:flutter/foundation.dart';
-import '../../models/city_model.dart';
+import '../models/city_model.dart';
 import '../datas/data.dart' as data;
 
 class CityProvider with ChangeNotifier {

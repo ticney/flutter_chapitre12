@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/widgets.dart';
-import '../../models/activity_model.dart';
+import './activity_model.dart';
 
 class Trip {
   String id;
