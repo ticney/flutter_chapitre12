@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../../providers/trip_provider.dart';
-import '../../../views/trips/widgets/trip_list.dart';
+import '../../providers/trip_provider.dart';
+import '../../views/trips/widgets/trip_list.dart';
 import 'package:provider/provider.dart';
 
 import '../../models/trip_model.dart';
